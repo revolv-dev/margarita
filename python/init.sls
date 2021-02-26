@@ -36,7 +36,7 @@ setuptools:
 
 pip:
   pip.installed:
-    - name: pip==8.1.1
+    - name: pip==20.3.4
     - require:
       - pip: setuptools
 
